@@ -1,0 +1,2 @@
+# ahoj-medak
+moje uloziste
